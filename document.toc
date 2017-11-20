@@ -1,0 +1,10 @@
+\beamer@sectionintoc {1}{Are there different ways to produce energy from the same source?}{3}{0}{1}
+\beamer@sectionintoc {2}{How does Hydroelectricity work?}{4}{0}{2}
+\beamer@subsubsectionintoc {2}{0}{1}{Dams}{4}{0}{2}
+\beamer@subsubsectionintoc {2}{0}{2}{Tidal}{6}{0}{2}
+\beamer@sectionintoc {3}{Where is it used?}{7}{0}{3}
+\beamer@sectionintoc {4}{Efficiency}{9}{0}{4}
+\beamer@sectionintoc {5}{Sustainability}{10}{0}{5}
+\beamer@sectionintoc {6}{Downsides}{11}{0}{6}
+\beamer@sectionintoc {7}{Benefits}{12}{0}{7}
+\beamer@sectionintoc {8}{Sources}{13}{0}{8}
